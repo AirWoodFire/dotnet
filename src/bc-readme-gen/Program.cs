@@ -120,6 +120,8 @@ namespace bc_readme_gen
     }
 }
 
+
+
 public class BreakingChange
 {
     public string Title;
